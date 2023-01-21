@@ -1,0 +1,19 @@
+lockfileVersion: 5.4
+
+specifiers:
+  picocolors: 1.0.0
+  url-slug: ^3.0.4
+
+dependencies:
+  picocolors: 1.0.0
+  url-slug: 3.0.4
+
+packages:
+
+  /picocolors/1.0.0:
+    resolution: {integrity: sha512-1fygroTLlHu66zi26VoTDv8yRgm0Fccecssto+MhsZ0D/DGW2sm8E8AjW7NU5VVTRt5GxbeZ5qBuJr+HyLYkjQ==}
+    dev: false
+
+  /url-slug/3.0.4:
+    resolution: {integrity: sha512-C880WJTo68O4J59i+w9Yp4P0iDUrMeCAVwNvHAYjSc59XsO4pkPfe8bsEHEyZrEfWWy8BDyxMQi6BPVHp/GEbg==}
+    dev: false
